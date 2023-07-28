@@ -1,0 +1,49 @@
+
+nixos:
+  home-manager
+  home-manager options search
+  package search
+  option search
+
+
+dev:
+  devhints.io
+
+utils:
+  tabela taco
+  weather
+  iseps spreadsheets
+  ???
+
+ditchqwerty
+
+fun:
+  https://www.midjourney.com/app/
+  https://monkeytype.com/
+
+rice:
+  http://dotshare.it
+  /r/unixporn
+
+study:
+  https://uncensoredlibrary.com/en
+  https://www.sci-hub.se/
+  https://annas-archive.org/
+
+
+
+
+https://www.hackr.io/tutorials
+https://www.futuretools.io/
+https://explainshell.com
+https://devdocs.io
+https://www.tabnews.com.br/
+https://libbyapp.com
+https://ditchqwerty.com/
+https://www.cfn.org.br/wp-content/uploads/2017/03/taco_4_edicao_ampliada_e_revisada.pdf
+https://revistaopera.com.br/
+https://singlelogin.me/
+https://www.freeformatter.com
+https://rentry.co/
+https://replicate.com
+https://hackingcpp.com/dev/coding_fonts.html
